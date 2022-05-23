@@ -1,0 +1,37 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color:deepskyblue ;
+}
+
+.header_div{
+    background-color: deeppink;
+    color: pink;
+}
+
+.header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: gray;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
